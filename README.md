@@ -8,23 +8,27 @@ Mata Kuliah : Pemrograman Web 2
 
 <h1> Tugas Praktikum 3 </h1>
 
-<h2> 1. Hasil file koneksi.php <h2>
+<h2> 1. Database penjualan <h2>
+
+![database](https://user-images.githubusercontent.com/119909214/226367750-a23b168b-ec6e-4cf5-8974-695a000f1262.png)
+
+<h2> 2. Hasil file koneksi.php <h2>
 
 ![koneksi](https://user-images.githubusercontent.com/119909214/226365062-a76be9eb-bfd1-4517-82ce-e3b763549153.png)
 
-<h2> 2. Hasil file index.php <h2>
+<h2> 3. Hasil file index.php <h2>
 
 ![index](https://user-images.githubusercontent.com/119909214/226365544-1d53f724-eceb-45e2-918b-fe40add4709b.png)
 
-<h2> 3. Hasil file tambah.php <h2>
+<h2> 4. Hasil file tambah.php <h2>
 
 ![tambah](https://user-images.githubusercontent.com/119909214/226365678-a6dbd821-4454-45dc-8d65-0d9aeab50385.png)
 
-<h2> 4. Hasil file ubah.php <h2>
+<h2> 5. Hasil file ubah.php <h2>
 
 ![ubah](https://user-images.githubusercontent.com/119909214/226365844-30c83329-661b-4abe-a1e5-8a39b105c709.png)
 
-<h2> 4. Hasil file hapus.php <h2>
+<h2> 6. Hasil file hapus.php <h2>
 
 <p> hasil ketika belum di hapus </p>
 
